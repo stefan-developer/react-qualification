@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page renders as expected 1`] = `
+<main
+  className="sc-AxjAm iWytSx"
+>
+  <p>
+    This is page wrapper for different content presentation.
+  </p>
+</main>
+`;

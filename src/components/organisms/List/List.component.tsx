@@ -1,8 +1,9 @@
 import React from "react";
 import * as Styled from "./List.styles";
+import IGithubRepo from "../../../models/GithubRepo";
 
 interface ListProps {
-  data: any[];
+  data: IGithubRepo[];
 }
 
 function List(props: ListProps): JSX.Element {
