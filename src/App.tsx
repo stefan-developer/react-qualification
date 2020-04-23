@@ -1,5 +1,5 @@
 import React from "react";
-import { ReposList } from "./components";
+import ReposList from "./pages/ReposList/ReposList.page";
 
 function App() {
 

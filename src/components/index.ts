@@ -25,6 +25,3 @@ export { default as List } from "./organisms/List/List.component";
  * MainPage | AuthPage
  * */
 export { default as Page } from "./templates/Page/Page.component";
-
-// PAGES
-export { default as ReposList } from "./pages/ReposList/ReposList.component";

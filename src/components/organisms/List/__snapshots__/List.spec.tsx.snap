@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders as expected 1`] = `
+<ul
+  className="sc-AxjAm juAXlR"
+>
+  <li>
+    <a>
+      my
+    </a>
+  </li>
+  <li>
+    <a>
+      github
+    </a>
+  </li>
+  <li>
+    <a>
+      repo
+    </a>
+  </li>
+  <li>
+    <a>
+      list
+    </a>
+  </li>
+</ul>
+`;

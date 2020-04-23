@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReposList renders as expected 1`] = `
+<main
+  className="sc-AxjAm iWytSx"
+>
+  <div
+    className="sc-AxirZ hFyLEi"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Search repos"
+      value=""
+    />
+  </div>
+  <div
+    className="sc-AxiKw kqNDMR"
+  >
+    <p>
+      Loading ...
+    </p>
+  </div>
+</main>
+`;
